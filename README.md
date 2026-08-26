@@ -48,3 +48,12 @@ The dashboard analyses insurance claims across:
 
 - `Insurance_Risk_Claims_Analysis.pbix` — Power BI dashboard
 - `Dashboard.png` — Dashboard preview
+
+## 📂 Dataset
+
+The dashboard was developed using an insurance policy and claims dataset.
+
+The dataset contains information related to policyholders, vehicles,
+coverage zones, demographics and claim amounts.
+
+
